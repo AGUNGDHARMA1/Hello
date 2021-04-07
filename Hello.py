@@ -1,0 +1,6 @@
+print ("hello")
+print ("===================================================")
+print ("Nama Lengkap : Agung Dharmawan")
+print ("Kelas        : Teknik Informatika 2018 A")
+print ("Kampus       : Universitas Nahdlatul Ulama Sidoarjo")
+print ("===================================================")
